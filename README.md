@@ -1,3 +1,8 @@
+# Links to Video
+
+- [Youtube](https://youtube.com/shorts/w5wEnW-1QGU?feature=share)
+- [Tiktok](https://www.tiktok.com/@based.umbrella/video/7432919095684664594)
+
 # Historical Video Project
 
 AI–Generated Video Project (59 seconds, 9:16 format)
@@ -24,9 +29,9 @@ This work is licensed under a [Creative Commons Attribution–ShareAlike 4.0 Int
 
 ## Prize Submission Checklist
 
-- [ ] 9:16 aspect ratio
-- [ ] Under 59 seconds
-- [ ] MP4 format
-- [ ] All prompts documented
-- [ ] Creative Commons licensed
-- [ ] Public repository
+- [x] 9:16 aspect ratio
+- [x] Under 59 seconds
+- [x] MP4 format
+- [x] All prompts documented
+- [x] Creative Commons licensed
+- [x] Public repository
