@@ -1,7 +1,7 @@
 # Links to Video
 
-- [Youtube](https://youtube.com/shorts/w5wEnW-1QGU?feature=share)
-- [Tiktok](https://www.tiktok.com/@based.umbrella/video/7432919095684664594)
+- [Youtube](https://www.youtube.com/shorts/W6_0mhEKr1A)
+- [Tiktok](https://www.tiktok.com/@based.umbrella/video/7433979045726965000)
 
 # Historical Video Project
 
@@ -13,15 +13,14 @@ AI–Generated Video Project (59 seconds, 9:16 format)
 - Runway Gen–2: Scene transitions
 - ChatGPT-4: Script research and text generation
 - ElevenLabs: Voice generation
-- Suno v3: Period–inspired background music
 - CapCut: Final video assembly and text overlay
 
 ## Files
 
-- `main–video.mp4`: Main video file (9:16, 59s)
+- `main–video.mp4`: Main video file was too large, please download from youtube or ask Mili (9:16, 59s)
 - `prompts/`: Directory containing all AI prompts used
 - `source_images/`: Original AI–generated images
-- `music/`: Generated background track
+- `music/`: Used audio tracks
 
 ## License
 
